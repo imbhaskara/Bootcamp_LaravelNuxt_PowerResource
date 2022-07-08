@@ -1,0 +1,2 @@
+# Bootcamp_LaravelNuxt_PowerResource
+Pembelajaran Bootcamp dengan BuildWithAngga membangun sebuah aplikasi sederhana dashboard data kepegawaian dengan nama PowerResources
